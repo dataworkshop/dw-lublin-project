@@ -5,7 +5,7 @@
 
 
 ## Team: 
-### Koordynatorzy:
+### Coordinators:
 - Serhiy (czyt. Serhij): Github: https://github.com/Intruz01
 
 - Marcin: Github: https://github.com/666bury
